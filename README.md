@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Own Ecommerce Project**
 
-- 💬 Ask me about **react, node js, mongodb, mysql, python, php, go, postgres**
+- 💬 Ask me about **react, node js, mongodb, mysql, python, php, go, postgres, laravel, nest js, next js, vue js, nuxt js, angular, ruby, ruby and rails, java, springboot**
 
 - 📫 How to reach me **virendra.arekar@gmail.com**
 
