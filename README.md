@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/viren_arekar" target="blank"><img src="https://img.shields.io/twitter/follow/viren_arekar?logo=twitter&style=for-the-badge" alt="viren_arekar" /></a> </p>
 
-- 🔭 I’m currently working on **Own Ecommerce Project**
+- 🔭 I’m currently working on **JAVA full stack project + AI deplyment + Job Preparation**
 
-- 💬 Ask me about **react, node js, mongodb, mysql, python, php, go, postgres, laravel, nest js, next js, vue js, nuxt js, angular, ruby, ruby and rails, java, springboot**
+- 💬 Ask me about **react, node js, mongodb, mysql, python, go, postgres, nest js, next js, vue js, nuxt js, angular, kubernates, docker, Agentic AI, Gen-AI, java, springboot**
 
 - 📫 How to reach me **virendra.arekar@gmail.com**
 
