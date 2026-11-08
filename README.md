@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JAVA full stack project + AI deplyment + Job Preparation**
 
-- 💬 Ask me about **react, node js, mongodb, mysql, python, go, postgres, nest js, next js, vue js, nuxt js, angular, kubernates, docker, Agentic AI, Gen-AI, java, springboot**
+- 💬 Ask me about **Node js, Nest js, Java, Spring Boot, Go, React js, Next js, Nuxt js, MongoDB, MySQL, Postgres. MS Sql, Kubernates, Docker, Agentic AI, Gen-AI**
 
 - 📫 How to reach me **virendra.arekar@gmail.com**
 
