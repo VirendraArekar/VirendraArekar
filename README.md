@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **virendra.arekar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PyFtsP_awp__AJ4kpRceataq11kK-Lne/view?usp=sharing](https://drive.google.com/file/d/1PyFtsP_awp__AJ4kpRceataq11kK-Lne/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1PyFtsP_awp__AJ4kpRceataq11kK-Lne/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -56,7 +56,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mariadb" alt="mariadb" width="40" height="40"/></a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/></a>
 </p>
