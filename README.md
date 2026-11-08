@@ -35,7 +35,8 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/></a>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialize/materialize-original.svg" alt="materialize" width="40" height="40"/></a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mui" alt="material ui" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/></a>
 </p>
 
