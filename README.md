@@ -13,10 +13,6 @@
 
 - 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1PyFtsP_awp__AJ4kpRceataq11kK-Lne/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
