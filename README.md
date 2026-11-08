@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Virendra Vanita Minanath Arekar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center"># Hi 👋, I'm Virendra Arekar</h1>
+<h3 align="center">Senior Full Stack Developer | Java · Spring Boot · React · Next.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virendraarekar&label=Profile%20views&color=0e75b6&style=flat" alt="virendraarekar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/viren_arekar" target="blank"><img src="https://img.shields.io/twitter/follow/viren_arekar?logo=twitter&style=for-the-badge" alt="viren_arekar" /></a> </p>
 
-- 🔭 I’m currently working on **JAVA full stack project + AI deplyment + Job Preparation**
+- 🔭 Building: a multi-tenant SaaS with Kafka, Redis, and Next.js, plus an AI document assistant (RAG)
 
-- 💬 Ask me about **Node js, Nest js, Java, Spring Boot, Go, React js, Next js, Nuxt js, MongoDB, MySQL, Postgres. MS Sql, Kubernates, Docker, Agentic AI, Gen-AI**
-
-- 📫 How to reach me **virendra.arekar@gmail.com**
+- 💬 Ask me about: Spring Boot, microservices, React/Next.js, MySQL/PostgreSQL, Docker, Kubernetes
+  
+- 📫 virendra.arekar@gmail.com
 
 - 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1PyFtsP_awp__AJ4kpRceataq11kK-Lne/view?usp=sharing)
 
