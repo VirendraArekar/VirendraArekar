@@ -1,5 +1,5 @@
 <h1 align="center"># Hi 👋, I'm Virendra Arekar</h1>
-<h3 align="center">Senior Full Stack Developer | Java · Spring Boot · React · Next.js</h3>
+<h3 align="center">Senior Full Stack Developer | Java · Spring Boot · React · Node.js . MongoDB . Postgres . Typescript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virendraarekar&label=Profile%20views&color=0e75b6&style=flat" alt="virendraarekar" /> </p>
 
