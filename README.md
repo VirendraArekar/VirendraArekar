@@ -42,37 +42,7 @@
 
 ---
 
-### 1. 🎨 [AI Image & Video Studio SaaS](https://github.com/VirendraArekar/ai-image-video-studio)
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <a href="https://github.com/VirendraArekar/ai-image-video-studio">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-image-video-studio/main/docs/screenshots/01-dashboard-light.png" alt="AI Image and Video Studio" width="100%" style="border-radius: 8px;" />
-      </a>
-    </td>
-    <td width="45%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis_BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <p>
-        Production-ready multimodal generative AI SaaS studio orchestrating prompt-to-image and text-to-video synthesis with multi-model failover across Google Gemini and Alibaba WanX.<br/>
-        Engineered with distributed asynchronous BullMQ background workers, transaction-safe credit ledger management, responsive gallery search, and high-performance S3 streaming.
-      </p>
-      <p>
-        ⭐ <a href="https://github.com/VirendraArekar/ai-image-video-studio"><b>Explore Repository & Source Code →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 2. ⚡ [AI DevOps Incident Management & Autonomous RCA Platform](https://github.com/VirendraArekar/ai-devops-incident-management)
+### 1. ⚡ [AI DevOps Incident Management & Autonomous RCA Platform](https://github.com/VirendraArekar/ai-devops-incident-management)
 
 <table>
   <tr>
@@ -102,37 +72,7 @@
 
 ---
 
-### 3. 🖌️ [AI Collaborative Whiteboard & Architecture Canvas](https://github.com/VirendraArekar/ai-whiteboard)
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <a href="https://github.com/VirendraArekar/ai-whiteboard">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-whiteboard/main/docs/screenshots/06-whiteboard-canvas.png" alt="AI Whiteboard Canvas" width="100%" style="border-radius: 8px;" />
-      </a>
-    </td>
-    <td width="45%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=flat-square&logo=google&logoColor=white" />
-      </p>
-      <p>
-        Real-time infinite collaborative whiteboard canvas enabling simultaneous multi-user architectural sketching, diagramming, and state synchronization over ultra-low-latency WebSockets.<br/>
-        Integrates an intelligent Google Gemini AI assistant capable of auto-generating complex cloud system designs, database schemas, and mind maps directly onto the visual canvas.
-      </p>
-      <p>
-        ⭐ <a href="https://github.com/VirendraArekar/ai-whiteboard"><b>Explore Repository & Source Code →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 4. ✈️ [AI Multi-Agent Travel Planner System](https://github.com/VirendraArekar/ai-multiagent-travel-planner)
+### 2. ✈️ [AI Multi-Agent Travel Planner System](https://github.com/VirendraArekar/ai-multiagent-travel-planner)
 
 <table>
   <tr>
@@ -162,7 +102,7 @@
 
 ---
 
-### 5. 🔍 [AI Automated Pull Request Code Reviewer](https://github.com/VirendraArekar/ai-code-reviewer)
+### 3. 🔍 [AI Automated Pull Request Code Reviewer](https://github.com/VirendraArekar/ai-code-reviewer)
 
 <table>
   <tr>
@@ -192,37 +132,7 @@
 
 ---
 
-### 6. 🍬 [Candy Crush Saga Match-3 Game Engine](https://github.com/VirendraArekar/cansy-crush-saga)
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <a href="https://github.com/VirendraArekar/cansy-crush-saga">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/cansy-crush-saga/main/docs/screenshots/01_splash_screen.png" alt="Candy Crush Saga Game" width="100%" style="border-radius: 8px;" />
-      </a>
-    </td>
-    <td width="45%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis_Lua-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-      </p>
-      <p>
-        High-concurrency arcade Match-3 game backend engineered for millions of daily active moves, level progression tracking, and virtual economy monetization.<br/>
-        Utilizes Redis Lua atomic scripts for sub-millisecond real-time global leaderboards, cheat-prevention move validation, and streak reward synchronization.
-      </p>
-      <p>
-        ⭐ <a href="https://github.com/VirendraArekar/cansy-crush-saga"><b>Explore Repository & Source Code →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 7. 📐 [SysDesign AI - System Design Interview Simulator](https://github.com/VirendraArekar/sysdesign-ai)
+### 4. 📐 [SysDesign AI - System Design Interview Simulator](https://github.com/VirendraArekar/sysdesign-ai)
 
 <table>
   <tr>
@@ -252,7 +162,7 @@
 
 ---
 
-### 8. 💼 [Invoicer AI - Automated Billing & Client CRM](https://github.com/VirendraArekar/invoicer-ai)
+### 5. 💼 [Invoicer AI - Automated Billing & Client CRM](https://github.com/VirendraArekar/invoicer-ai)
 
 <table>
   <tr>
@@ -281,64 +191,6 @@
 </table>
 
 ---
-
-### 9. 📋 [Form Builder AI - Dynamic Forms & Analytics](https://github.com/VirendraArekar/form-builder-ai)
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <a href="https://github.com/VirendraArekar/form-builder-ai">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/form-builder-ai/main/docs/screenshots/01-landing-page.png" alt="Form Builder AI" width="100%" style="border-radius: 8px;" />
-      </a>
-    </td>
-    <td width="45%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <p>
-        Intelligent no-code form builder enabling natural language prompt-to-form generation, conditional branching logic, and secure response collection.<br/>
-        Built with React, Spring Boot 4, and Tailwind CSS v4, featuring real-time response analytics, CSV data exports, and AI-powered sentiment analysis.
-      </p>
-      <p>
-        ⭐ <a href="https://github.com/VirendraArekar/form-builder-ai"><b>Explore Repository & Source Code →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 10. 🎟️ [Zero-Oversell High-Concurrency Event Ticketing System](https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system)
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system/main/docs/screenshots/01-public-catalog.png" alt="Event Ticketing Reservation System" width="100%" style="border-radius: 8px;" />
-      </a>
-    </td>
-    <td width="45%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis_Lua-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      </p>
-      <p>
-        Mission-critical event reservation and ticketing architecture engineered for flash sales with mathematical zero-overselling guarantees under heavy concurrent traffic.<br/>
-        Implements Redis Lua atomic reservation scripts, Apache Kafka KRaft distributed streams, automatic seat expiration timers, and secure QR check-in verification.
-      </p>
-      <p>
-        ⭐ <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system"><b>Explore Repository & Source Code →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <!-- Animated Rainbow Section Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section Divider" />
