@@ -208,7 +208,7 @@
     <td width="50%" valign="top">
       <h4>10. 🎟️ <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system">Zero-Oversell Event Ticketing</a></h4>
       <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system/main/docs/screenshots/01-public-catalog.png" alt="Event Ticketing Reservation System" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system/main/docs/screenshots/01-public-catalog.png" alt="Event Ticketing Reservation System" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -224,10 +224,6 @@
     </td>
   </tr>
 </table>
-
-<!-- Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0f1d,111827,1e1b4b,312e81,60a5fa&height=12&section=header" width="100%" alt="Section Divider" />
-<hr/>
 
 <!-- 🛠️ Technical Arsenal / Skills -->
 <h3 align="left">🛠️ Technical Arsenal</h3>
