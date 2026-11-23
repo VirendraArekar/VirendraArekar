@@ -1,6 +1,6 @@
 <!-- Top Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f1d,111827,1e1b4b,312e81,4338ca&height=180&section=header&text=Virendra%20Arekar&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Senior%20Full%20Stack%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%20Engineering&descSize=16&descAlignY=68" width="100%" alt="Virendra Arekar Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f1d,111827,1e1b4b,312e81,4338ca&height=130&section=header&text=Virendra%20Arekar&fontSize=38&fontColor=ffffff&animation=twinkling&desc=Senior%20Full%20Stack%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%20Engineering&descSize=14&descAlignY=68" width="100%" alt="Virendra Arekar Banner" />
 </div>
 
 <!-- Animated Typing Subtitle (Responsive & Overflow-Free) -->
@@ -47,7 +47,7 @@
     <td width="50%" valign="top">
       <h4>1. 🎨 <a href="https://github.com/VirendraArekar/ai-image-video-studio">AI Image & Video Studio SaaS</a></h4>
       <a href="https://github.com/VirendraArekar/ai-image-video-studio">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-image-video-studio/main/docs/screenshots/01-dashboard-light.png" alt="AI Image & Video Studio" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-image-video-studio/main/docs/screenshots/01-dashboard-light.png" alt="AI Image & Video Studio" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/React_18-2563EB?style=flat-square&logo=react&logoColor=white" />
@@ -64,7 +64,7 @@
     <td width="50%" valign="top">
       <h4>2. ⚡ <a href="https://github.com/VirendraArekar/ai-devops-incident-management">AI DevOps Incident & RCA Platform</a></h4>
       <a href="https://github.com/VirendraArekar/ai-devops-incident-management">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-devops-incident-management/main/docs/screenshots/overview.png" alt="AI DevOps Incident Management" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-devops-incident-management/main/docs/screenshots/overview.png" alt="AI DevOps Incident Management" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -83,7 +83,7 @@
     <td width="50%" valign="top">
       <h4>3. 🖌️ <a href="https://github.com/VirendraArekar/ai-whiteboard">AI Collaborative Whiteboard Canvas</a></h4>
       <a href="https://github.com/VirendraArekar/ai-whiteboard">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-whiteboard/main/docs/screenshots/06-whiteboard-canvas.png" alt="AI Whiteboard Canvas" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-whiteboard/main/docs/screenshots/06-whiteboard-canvas.png" alt="AI Whiteboard Canvas" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/React_18-2563EB?style=flat-square&logo=react&logoColor=white" />
@@ -100,7 +100,7 @@
     <td width="50%" valign="top">
       <h4>4. ✈️ <a href="https://github.com/VirendraArekar/ai-multiagent-travel-planner">AI Multi-Agent Travel Planner</a></h4>
       <a href="https://github.com/VirendraArekar/ai-multiagent-travel-planner">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-multiagent-travel-planner/main/docs/screenshots/01-landing.png" alt="AI Travel Planner" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-multiagent-travel-planner/main/docs/screenshots/01-landing.png" alt="AI Travel Planner" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -119,7 +119,7 @@
     <td width="50%" valign="top">
       <h4>5. 🔍 <a href="https://github.com/VirendraArekar/ai-code-reviewer">AI Automated PR Code Reviewer</a></h4>
       <a href="https://github.com/VirendraArekar/ai-code-reviewer">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-code-reviewer/main/docs/images/01-dashboard-light.png" alt="AI Code Reviewer" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-code-reviewer/main/docs/images/01-dashboard-light.png" alt="AI Code Reviewer" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -136,7 +136,7 @@
     <td width="50%" valign="top">
       <h4>6. ☕ <a href="https://github.com/VirendraArekar/java-code-runner">Java 25 & Spring Boot 4 Studio</a></h4>
       <a href="https://github.com/VirendraArekar/java-code-runner">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/java-code-runner/main/screenshot.png" alt="Java 25 Spring Boot 4 Studio" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/java-code-runner/main/screenshot.png" alt="Java 25 Spring Boot 4 Studio" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -155,7 +155,7 @@
     <td width="50%" valign="top">
       <h4>7. 📐 <a href="https://github.com/VirendraArekar/sysdesign-ai">SysDesign AI Interview Simulator</a></h4>
       <a href="https://github.com/VirendraArekar/sysdesign-ai">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/sysdesign-ai/main/docs/screenshots/02_topics_hub_105.png" alt="SysDesign AI Simulator" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/sysdesign-ai/main/docs/screenshots/02_topics_hub_105.png" alt="SysDesign AI Simulator" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/React_18-2563EB?style=flat-square&logo=react&logoColor=white" />
@@ -172,7 +172,7 @@
     <td width="50%" valign="top">
       <h4>8. 💼 <a href="https://github.com/VirendraArekar/invoicer-ai">Invoicer AI - Smart Billing & CRM</a></h4>
       <a href="https://github.com/VirendraArekar/invoicer-ai">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/invoicer-ai/main/docs/screenshots/01-landing-page.png" alt="Invoicer AI Dashboard" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/invoicer-ai/main/docs/screenshots/01-landing-page.png" alt="Invoicer AI Dashboard" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/React_18-2563EB?style=flat-square&logo=react&logoColor=white" />
@@ -191,7 +191,7 @@
     <td width="50%" valign="top">
       <h4>9. 📋 <a href="https://github.com/VirendraArekar/form-builder-ai">Form Builder AI - Dynamic Forms</a></h4>
       <a href="https://github.com/VirendraArekar/form-builder-ai">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/form-builder-ai/main/docs/screenshots/01-landing-page.png" alt="Form Builder AI" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/form-builder-ai/main/docs/screenshots/01-landing-page.png" alt="Form Builder AI" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/React_18-2563EB?style=flat-square&logo=react&logoColor=white" />
@@ -208,7 +208,7 @@
     <td width="50%" valign="top">
       <h4>10. 🎟️ <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system">Zero-Oversell Event Ticketing</a></h4>
       <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system/main/docs/screenshots/01-public-catalog.png" alt="Event Ticketing Reservation System" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system/main/docs/screenshots/01-public-catalog.png" alt="Event Ticketing Reservation System" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -320,5 +320,5 @@
 
 <!-- Bottom Animated Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f1d,111827,1e1b4b,312e81,4338ca&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f1d,111827,1e1b4b,312e81,4338ca&height=65&section=footer" width="100%" alt="Footer Banner" />
 </div>
