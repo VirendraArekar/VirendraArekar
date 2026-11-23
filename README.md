@@ -306,18 +306,6 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react native" width="40" height="40"/></a>
 </p>
 
-<!-- Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0f1d,111827,1e1b4b,312e81,60a5fa&height=12&section=header" width="100%" alt="Section Divider" />
-<hr/>
-
-<!-- 📊 GitHub Activity & Statistics -->
-<h3 align="left">📊 GitHub Activity & Statistics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirendraArekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Virendra's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirendraArekar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <!-- Bottom Animated Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f1d,111827,1e1b4b,312e81,4338ca&height=65&section=footer" width="100%" alt="Footer Banner" />
