@@ -6,7 +6,7 @@
 <!-- Animated Typing Subtitle -->
 <p align="center">
   <a href="https://github.com/VirendraArekar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=65&lines=%20%20Senior+Full+Stack+Developer+%7C+Java+21%2F25+%C2%B7+Spring+Boot+4+%C2%B7+Distributed+Systems;%20%20AI-Native+Applications+%C2%B7+Multi-Agent+Workflows+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Zero-Oversell+Architectures+%C2%B7+Redis+Lua+%C2%B7+Kafka+Streams+%C2%B7+Cloud+Native" alt="Typing Header" />
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=65&lines=%20%20Senior+Full+Stack+Developer+%7C+Java+21%2F25+%C2%B7+Spring+Boot+4+%C2%B7+Distributed+Systems;%20%20AI-Native+Applications+%C2%B7+Multi-Agent+Workflows+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Zero-Oversell+Architectures+%C2%B7+Redis+Lua+%C2%B7+Kafka+Streams+%C2%B7+Cloud+Native](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=65&lines=..%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Senior+Full+Stack+Developer+%7C+Java+21%2F25+%C2%B7+Spring+Boot+4+%C2%B7+Distributed+Systems;....%20%20%20%20%20%20%20AI-Native+Applications+%C2%B7+Multi-Agent+Workflows+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Zero-Oversell+Architectures+%C2%B7+Redis+Lua+%C2%B7+Kafka+Streams+%C2%B7+Cloud+Native)" alt="Typing Header" />
   </a>
 </p>
 
