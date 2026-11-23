@@ -36,34 +36,38 @@
 
 <!-- 🚀 Featured Projects Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&width=500&height=45&lines=Featured+Engineering+Projects;10+Production-Ready+Architectures" alt="Featured Projects Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&width=500&height=45&lines=Featured+Engineering+Projects;9+Production-Ready+Architectures" alt="Featured Projects Header" />
 </div>
 
-<p align="center"><i>A curated selection of 10 recent full-stack applications, distributed architectures, and AI systems engineered for scale, resiliency, and real-world production.</i></p>
+<p align="center"><i>A curated selection of 9 full-stack applications, distributed architectures, and AI systems engineered for scale, resiliency, and real-world production.</i></p>
 
-<!-- 2 Projects Per Row Grid -->
+<!-- 3 Projects Per Row Grid (3 x 3 = 9 Projects) -->
 <table width="100%">
+  <!-- Row 1: AI Studios & Collaborative Canvas -->
   <tr>
-    <td width="50%" valign="top">
-      <h4>1. 🎨 <a href="https://github.com/VirendraArekar/ai-image-video-studio">AI Image & Video Studio SaaS</a></h4>
+    <td width="33.33%" valign="top">
+      <h4>1. 🎨 <a href="https://github.com/VirendraArekar/ai-image-video-studio">AI Image & Video Studio</a></h4>
       <a href="https://github.com/VirendraArekar/ai-image-video-studio">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-image-video-studio/main/docs/screenshots/01-dashboard-light.png" alt="AI Image & Video Studio" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-image-video-studio/main/docs/screenshots/01-dashboard-light.png" alt="AI Image & Video Studio" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/React_18-2563EB?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_AI-6366F1?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis_BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
       <p>
-        Full-stack generative AI studio enabling prompt-to-image and text-to-video synthesis with multi-model failover.<br/>
-        Engineered with asynchronous BullMQ queues, credit ledgers, and responsive media streaming.
+        <small>
+          Full-stack generative AI studio enabling prompt-to-image and text-to-video synthesis with multi-model failover.<br/>
+          Engineered with distributed BullMQ background workers, transaction ledgers, and S3 streaming.
+        </small>
       </p>
+      <p><small>⭐ <a href="https://github.com/VirendraArekar/ai-image-video-studio"><b>View Source Code →</b></a></small></p>
     </td>
-    <td width="50%" valign="top">
-      <h4>2. ⚡ <a href="https://github.com/VirendraArekar/ai-devops-incident-management">AI DevOps Incident & RCA Platform</a></h4>
+    <td width="33.33%" valign="top">
+      <h4>2. ⚡ <a href="https://github.com/VirendraArekar/ai-devops-incident-management">AI DevOps Incident & RCA</a></h4>
       <a href="https://github.com/VirendraArekar/ai-devops-incident-management">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-devops-incident-management/main/docs/screenshots/overview.png" alt="AI DevOps Incident Management" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-devops-incident-management/main/docs/screenshots/overview.png" alt="AI DevOps Incident Management" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -72,16 +76,17 @@
         <img src="https://img.shields.io/badge/AI_Agents-10B981?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <p>
-        Autonomous incident response platform aggregating distributed microservice OpenTelemetry traces.<br/>
-        Features autonomous AI RCA agents that isolate root causes and synthesise automated remediation runbooks.
+        <small>
+          Autonomous incident management platform aggregating microservice OpenTelemetry traces.<br/>
+          Employs autonomous AI agents to isolate root causes and synthesize remediation runbooks.
+        </small>
       </p>
+      <p><small>⭐ <a href="https://github.com/VirendraArekar/ai-devops-incident-management"><b>View Source Code →</b></a></small></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>3. 🖌️ <a href="https://github.com/VirendraArekar/ai-whiteboard">AI Collaborative Whiteboard Canvas</a></h4>
+    <td width="33.33%" valign="top">
+      <h4>3. 🖌️ <a href="https://github.com/VirendraArekar/ai-whiteboard">AI Collaborative Whiteboard</a></h4>
       <a href="https://github.com/VirendraArekar/ai-whiteboard">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-whiteboard/main/docs/screenshots/06-whiteboard-canvas.png" alt="AI Whiteboard Canvas" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-whiteboard/main/docs/screenshots/06-whiteboard-canvas.png" alt="AI Whiteboard Canvas" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/React_18-2563EB?style=flat-square&logo=react&logoColor=white" />
@@ -90,14 +95,20 @@
         <img src="https://img.shields.io/badge/Gemini_AI-6366F1?style=flat-square&logo=google&logoColor=white" />
       </p>
       <p>
-        Real-time infinite collaborative whiteboard supporting concurrent multi-user architectural sketching via WebSockets.<br/>
-        Integrates Google Gemini AI to generate cloud architecture diagrams and mind maps on the fly.
+        <small>
+          Real-time infinite whiteboard canvas supporting concurrent multi-user sketching via WebSockets.<br/>
+          Integrates Gemini AI to generate cloud architecture diagrams and mind maps interactively.
+        </small>
       </p>
+      <p><small>⭐ <a href="https://github.com/VirendraArekar/ai-whiteboard"><b>View Source Code →</b></a></small></p>
     </td>
-    <td width="50%" valign="top">
-      <h4>4. ✈️ <a href="https://github.com/VirendraArekar/ai-multiagent-travel-planner">AI Multi-Agent Travel Planner</a></h4>
+  </tr>
+  <!-- Row 2: Multi-Agent Systems, Code Review & Zero-Oversell High Concurrency -->
+  <tr>
+    <td width="33.33%" valign="top">
+      <h4>4. ✈️ <a href="https://github.com/VirendraArekar/ai-multiagent-travel-planner">AI Multi-Agent Planner</a></h4>
       <a href="https://github.com/VirendraArekar/ai-multiagent-travel-planner">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-multiagent-travel-planner/main/docs/screenshots/01-landing.png" alt="AI Travel Planner" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-multiagent-travel-planner/main/docs/screenshots/01-landing.png" alt="AI Travel Planner" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -106,16 +117,17 @@
         <img src="https://img.shields.io/badge/Gemini_API-6366F1?style=flat-square&logo=google&logoColor=white" />
       </p>
       <p>
-        Autonomous multi-agent travel planner coordinating 11 specialised AI agents to generate tailored itineraries.<br/>
-        Engineered with Spring Boot 4, pgvector semantic search, and real-time geospatial route mapping.
+        <small>
+          Autonomous travel planner coordinating 11 specialized AI agents to generate customized itineraries.<br/>
+          Built with Spring Boot 4, pgvector semantic search, and real-time geospatial route mapping.
+        </small>
       </p>
+      <p><small>⭐ <a href="https://github.com/VirendraArekar/ai-multiagent-travel-planner"><b>View Source Code →</b></a></small></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>5. 🔍 <a href="https://github.com/VirendraArekar/ai-code-reviewer">AI Automated PR Code Reviewer</a></h4>
+    <td width="33.33%" valign="top">
+      <h4>5. 🔍 <a href="https://github.com/VirendraArekar/ai-code-reviewer">AI Automated PR Reviewer</a></h4>
       <a href="https://github.com/VirendraArekar/ai-code-reviewer">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-code-reviewer/main/docs/images/01-dashboard-light.png" alt="AI Code Reviewer" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/ai-code-reviewer/main/docs/images/01-dashboard-light.png" alt="AI Code Reviewer" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -124,82 +136,17 @@
         <img src="https://img.shields.io/badge/LLM_Reviewer-6366F1?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <p>
-        Automated pull request review service analysing code diffs for security flaws, concurrency bugs, and anti-patterns.<br/>
-        Provides inline line-by-line feedback and automated refactoring suggestions in GitHub PR threads.
+        <small>
+          Automated GitHub pull request service analyzing code diffs for security flaws, race conditions, and bugs.<br/>
+          Provides inline line-level suggestions and risk evaluation scores directly in GitHub PR threads.
+        </small>
       </p>
+      <p><small>⭐ <a href="https://github.com/VirendraArekar/ai-code-reviewer"><b>View Source Code →</b></a></small></p>
     </td>
-    <td width="50%" valign="top">
-      <h4>6. ☕ <a href="https://github.com/VirendraArekar/java-code-runner">Java 25 & Spring Boot 4 Studio</a></h4>
-      <a href="https://github.com/VirendraArekar/java-code-runner">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/java-code-runner/main/screenshot.png" alt="Java 25 Spring Boot 4 Studio" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL_8-00758F?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <p>
-        Interactive development workbench and project directory explorer designed for modern Java 25 & Spring Boot 4.<br/>
-        Features unified multi-database query inspection across SQL/NoSQL and isolated code sandboxing.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>7. 📐 <a href="https://github.com/VirendraArekar/sysdesign-ai">SysDesign AI Interview Simulator</a></h4>
-      <a href="https://github.com/VirendraArekar/sysdesign-ai">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/sysdesign-ai/main/docs/screenshots/02_topics_hub_105.png" alt="SysDesign AI Simulator" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/React_18-2563EB?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-6366F1?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <p>
-        Interactive system design interview preparation simulator with 105+ high-level and low-level architectural challenges.<br/>
-        Uses Google Gemini to evaluate proposals, calculate throughput/storage limits, and provide scoring.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>8. 💼 <a href="https://github.com/VirendraArekar/invoicer-ai">Invoicer AI - Smart Billing & CRM</a></h4>
-      <a href="https://github.com/VirendraArekar/invoicer-ai">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/invoicer-ai/main/docs/screenshots/01-landing-page.png" alt="Invoicer AI Dashboard" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/React_18-2563EB?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_OCR-6366F1?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-      </p>
-      <p>
-        Automated billing and financial SaaS featuring multi-currency invoices, client CRM, and payment reconciliation.<br/>
-        Integrates Gemini multimodal OCR for instant receipt parsing and automated monthly revenue reporting.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>9. 📋 <a href="https://github.com/VirendraArekar/form-builder-ai">Form Builder AI - Dynamic Forms</a></h4>
-      <a href="https://github.com/VirendraArekar/form-builder-ai">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/form-builder-ai/main/docs/screenshots/01-landing-page.png" alt="Form Builder AI" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/React_18-2563EB?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-6366F1?style=flat-square&logo=google&logoColor=white" />
-      </p>
-      <p>
-        No-code form builder enabling natural language prompt-to-form generation with conditional logic workflows.<br/>
-        Features live response collection, CSV export, and AI-powered sentiment analysis on user submissions.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>10. 🎟️ <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system">Zero-Oversell Event Ticketing</a></h4>
+    <td width="33.33%" valign="top">
+      <h4>6. 🎟️ <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system">Zero-Oversell Ticketing</a></h4>
       <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system/main/docs/screenshots/01-public-catalog.png" alt="Event Ticketing Reservation System" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system/main/docs/screenshots/01-public-catalog.png" alt="Event Ticketing Reservation System" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -208,12 +155,79 @@
         <img src="https://img.shields.io/badge/Kafka_KRaft-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
       </p>
       <p>
-        High-concurrency event reservation system engineered for flash sales with mathematical zero-oversell guarantees.<br/>
-        Implements Redis Lua atomic ticket reservations, Kafka streams, auto-expiration, and secure QR check-in.
+        <small>
+          High-concurrency event booking architecture engineered for flash sales with zero-oversell guarantees.<br/>
+          Implements Redis Lua atomic reservation scripts, Kafka streams, auto-expiration, and QR check-in.
+        </small>
       </p>
+      <p><small>⭐ <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system"><b>View Source Code →</b></a></small></p>
+    </td>
+  </tr>
+  <!-- Row 3: Java 25 Workbench, Architecture Simulator & Financial SaaS -->
+  <tr>
+    <td width="33.33%" valign="top">
+      <h4>7. ☕ <a href="https://github.com/VirendraArekar/java-code-runner">Java 25 & Spring Boot 4 Studio</a></h4>
+      <a href="https://github.com/VirendraArekar/java-code-runner">
+        <img src="https://raw.githubusercontent.com/VirendraArekar/java-code-runner/main/screenshot.png" alt="Java 25 Spring Boot 4 Studio" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL_8-00758F?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p>
+        <small>
+          Interactive development studio and project directory explorer designed for modern Java 25 & Spring Boot 4.<br/>
+          Features unified multi-database query inspection across SQL/NoSQL and isolated code sandboxing.
+        </small>
+      </p>
+      <p><small>⭐ <a href="https://github.com/VirendraArekar/java-code-runner"><b>View Source Code →</b></a></small></p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h4>8. 📐 <a href="https://github.com/VirendraArekar/sysdesign-ai">SysDesign AI Simulator</a></h4>
+      <a href="https://github.com/VirendraArekar/sysdesign-ai">
+        <img src="https://raw.githubusercontent.com/VirendraArekar/sysdesign-ai/main/docs/screenshots/02_topics_hub_105.png" alt="SysDesign AI Simulator" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/React_18-2563EB?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-6366F1?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <p>
+        <small>
+          Interactive system design interview preparation simulator with 105+ architectural challenges.<br/>
+          Powered by Gemini to evaluate proposals, calculate throughput/storage limits, and provide rubric scoring.
+        </small>
+      </p>
+      <p><small>⭐ <a href="https://github.com/VirendraArekar/sysdesign-ai"><b>View Source Code →</b></a></small></p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h4>9. 💼 <a href="https://github.com/VirendraArekar/invoicer-ai">Invoicer AI - Billing & CRM</a></h4>
+      <a href="https://github.com/VirendraArekar/invoicer-ai">
+        <img src="https://raw.githubusercontent.com/VirendraArekar/invoicer-ai/main/docs/screenshots/01-landing-page.png" alt="Invoicer AI Dashboard" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/React_18-2563EB?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_OCR-6366F1?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      </p>
+      <p>
+        <small>
+          Automated billing and financial SaaS featuring multi-currency invoices, client CRM, and payments.<br/>
+          Integrates Gemini multimodal OCR for instant receipt parsing and automated monthly revenue reporting.
+        </small>
+      </p>
+      <p><small>⭐ <a href="https://github.com/VirendraArekar/invoicer-ai"><b>View Source Code →</b></a></small></p>
     </td>
   </tr>
 </table>
+
+<!-- Section Divider -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0f1d,111827,1e1b4b,312e81,60a5fa&height=12&section=header" width="100%" alt="Section Divider" />
+<hr/>
 
 <!-- 🛠️ Technical Arsenal / Skills -->
 <h3 align="left">🛠️ Technical Arsenal</h3>
@@ -290,6 +304,18 @@
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/></a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react native" width="40" height="40"/></a>
+</p>
+
+<!-- Section Divider -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0f1d,111827,1e1b4b,312e81,60a5fa&height=12&section=header" width="100%" alt="Section Divider" />
+<hr/>
+
+<!-- 📊 GitHub Activity & Statistics -->
+<h3 align="left">📊 GitHub Activity & Statistics</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VirendraArekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Virendra's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirendraArekar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Bottom Animated Footer Banner -->
