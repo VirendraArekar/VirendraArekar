@@ -59,7 +59,6 @@
         Full-stack generative AI studio enabling prompt-to-image and text-to-video synthesis with multi-model failover.<br/>
         Engineered with asynchronous BullMQ queues, credit ledgers, and responsive media streaming.
       </p>
-      <p>⭐ <a href="https://github.com/VirendraArekar/ai-image-video-studio"><b>View Source Code →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>2. ⚡ <a href="https://github.com/VirendraArekar/ai-devops-incident-management">AI DevOps Incident & RCA Platform</a></h4>
@@ -74,9 +73,8 @@
       </p>
       <p>
         Autonomous incident response platform aggregating distributed microservice OpenTelemetry traces.<br/>
-        Features autonomous AI RCA agents that isolate root causes and synthesize automated remediation runbooks.
+        Features autonomous AI RCA agents that isolate root causes and synthesise automated remediation runbooks.
       </p>
-      <p>⭐ <a href="https://github.com/VirendraArekar/ai-devops-incident-management"><b>View Source Code →</b></a></p>
     </td>
   </tr>
   <tr>
@@ -95,7 +93,6 @@
         Real-time infinite collaborative whiteboard supporting concurrent multi-user architectural sketching via WebSockets.<br/>
         Integrates Google Gemini AI to generate cloud architecture diagrams and mind maps on the fly.
       </p>
-      <p>⭐ <a href="https://github.com/VirendraArekar/ai-whiteboard"><b>View Source Code →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>4. ✈️ <a href="https://github.com/VirendraArekar/ai-multiagent-travel-planner">AI Multi-Agent Travel Planner</a></h4>
@@ -109,10 +106,9 @@
         <img src="https://img.shields.io/badge/Gemini_API-6366F1?style=flat-square&logo=google&logoColor=white" />
       </p>
       <p>
-        Autonomous multi-agent travel planner coordinating 11 specialized AI agents to generate tailored itineraries.<br/>
+        Autonomous multi-agent travel planner coordinating 11 specialised AI agents to generate tailored itineraries.<br/>
         Engineered with Spring Boot 4, pgvector semantic search, and real-time geospatial route mapping.
       </p>
-      <p>⭐ <a href="https://github.com/VirendraArekar/ai-multiagent-travel-planner"><b>View Source Code →</b></a></p>
     </td>
   </tr>
   <tr>
@@ -128,10 +124,9 @@
         <img src="https://img.shields.io/badge/LLM_Reviewer-6366F1?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <p>
-        Automated pull request review service analyzing code diffs for security flaws, concurrency bugs, and anti-patterns.<br/>
+        Automated pull request review service analysing code diffs for security flaws, concurrency bugs, and anti-patterns.<br/>
         Provides inline line-by-line feedback and automated refactoring suggestions in GitHub PR threads.
       </p>
-      <p>⭐ <a href="https://github.com/VirendraArekar/ai-code-reviewer"><b>View Source Code →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>6. ☕ <a href="https://github.com/VirendraArekar/java-code-runner">Java 25 & Spring Boot 4 Studio</a></h4>
@@ -148,7 +143,6 @@
         Interactive development workbench and project directory explorer designed for modern Java 25 & Spring Boot 4.<br/>
         Features unified multi-database query inspection across SQL/NoSQL and isolated code sandboxing.
       </p>
-      <p>⭐ <a href="https://github.com/VirendraArekar/java-code-runner"><b>View Source Code →</b></a></p>
     </td>
   </tr>
   <tr>
@@ -167,7 +161,6 @@
         Interactive system design interview preparation simulator with 105+ high-level and low-level architectural challenges.<br/>
         Uses Google Gemini to evaluate proposals, calculate throughput/storage limits, and provide scoring.
       </p>
-      <p>⭐ <a href="https://github.com/VirendraArekar/sysdesign-ai"><b>View Source Code →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>8. 💼 <a href="https://github.com/VirendraArekar/invoicer-ai">Invoicer AI - Smart Billing & CRM</a></h4>
@@ -184,7 +177,6 @@
         Automated billing and financial SaaS featuring multi-currency invoices, client CRM, and payment reconciliation.<br/>
         Integrates Gemini multimodal OCR for instant receipt parsing and automated monthly revenue reporting.
       </p>
-      <p>⭐ <a href="https://github.com/VirendraArekar/invoicer-ai"><b>View Source Code →</b></a></p>
     </td>
   </tr>
   <tr>
@@ -203,12 +195,11 @@
         No-code form builder enabling natural language prompt-to-form generation with conditional logic workflows.<br/>
         Features live response collection, CSV export, and AI-powered sentiment analysis on user submissions.
       </p>
-      <p>⭐ <a href="https://github.com/VirendraArekar/form-builder-ai"><b>View Source Code →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>10. 🎟️ <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system">Zero-Oversell Event Ticketing</a></h4>
       <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system">
-        <img src="https://raw.githubusercontent.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system/main/docs/screenshots/01-public-catalog.png" alt="Event Ticketing Reservation System" width="100%" height="60%" style="border-radius: 6px; border: 1px solid #30363d;" />
+        <img src="https://raw.githubusercontent.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system/main/docs/screenshots/01-public-catalog.png" alt="Event Ticketing Reservation System" width="50%" style="border-radius: 6px; border: 1px solid #30363d;" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -220,7 +211,6 @@
         High-concurrency event reservation system engineered for flash sales with mathematical zero-oversell guarantees.<br/>
         Implements Redis Lua atomic ticket reservations, Kafka streams, auto-expiration, and secure QR check-in.
       </p>
-      <p>⭐ <a href="https://github.com/VirendraArekar/event-ticketing-and-zero-oversell-reservation-system"><b>View Source Code →</b></a></p>
     </td>
   </tr>
 </table>
